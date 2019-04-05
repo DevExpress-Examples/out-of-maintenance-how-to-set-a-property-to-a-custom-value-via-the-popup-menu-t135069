@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Data.cs](./CS/pgrid_attribute/Data.cs) (VB: [Data.vb](./VB/pgrid_attribute/Data.vb))
-* **[MainWindow.xaml](./CS/pgrid_attribute/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/pgrid_attribute/MainWindow.xaml.vb))**
+* **[MainWindow.xaml](./CS/pgrid_attribute/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/pgrid_attribute/MainWindow.xaml))**
 * [MainWindow.xaml.cs](./CS/pgrid_attribute/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/pgrid_attribute/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Set a Property to a Custom Value via the Popup Menu
